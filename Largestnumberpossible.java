@@ -1,5 +1,6 @@
 Largest number possible
-  Given two numbers 'N' and 'S' , find the largest number that can be formed with 'N' digits and whose sum of digits should be equals to 'S'. Return -1 if it is not possible.
+  Given two numbers 'N' and 'S' , find the largest number that can be formed with 'N' digits and
+  whose sum of digits should be equals to 'S'. Return -1 if it is not possible.
 
 // Example 1:
 // Input: N = 2, S = 9
