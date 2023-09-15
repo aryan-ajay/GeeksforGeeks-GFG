@@ -9,7 +9,7 @@
 // 2 ->2 -> 4-> 5, only 2 occurs more 
 // than 1 time. So we need to remove it once.
 
-  class GfG
+  class Ajay
 {
     //Function to remove duplicates from sorted linked list.
     Node removeDuplicates(Node head)
